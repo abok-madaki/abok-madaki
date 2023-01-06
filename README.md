@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I am a FrontEnd Developer, UI/UX Designer and an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+I am a FrontEnd Developer and an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
 
 
 - :telescope: I’m working as a FrontEnd Developer, Community Manager/Moderator, Project Advisor, Financial Markets.
